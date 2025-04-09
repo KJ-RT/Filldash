@@ -22,7 +22,7 @@ let songs = [
     {songName: "Na Jaana - Salam-e-Ishq", filePath: "songs/1.mp3", coverPath: "covers/10.jpg"},
     {songName: "chammak challo - ra-one", filePath: "songs/1.mp3", coverPath: "covers/11.jpg"},
     {songName: "chhaliya - tashan", filePath: "songs/1.mp3", coverPath: "covers/12.jpg"},
-    {songName: "jhalla wallah - ishqzaade, filePath: ", "songs/1.mp3", coverPath: "covers/13.jpg"},
+    {songName: "jhalla wallah - ishqzaade", filePath: "songs/1.mp3", coverPath: "covers/13.jpg"},
     {songName: "Hass_Hass_ - official song(diljit doshan)", filePath: "songs/1.mp3", coverPath: "covers/14.jpg"},  
     {songName: "mera naam mary - brothers", filePath: "songs/1.mp3", coverPath: "covers/15.jpg"},
     {songName: "one two three four - chennai express", filePath: "songs/1.mp3", coverPath: "covers/16.jpg"},
